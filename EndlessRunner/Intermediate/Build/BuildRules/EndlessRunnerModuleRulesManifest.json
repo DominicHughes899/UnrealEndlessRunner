@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\bebo_\\Desktop\\Unreal\\OneDayGames\\UnrealEndlessRunner\\EndlessRunner\\Source\\EndlessRunner\\EndlessRunner.Build.cs",
+		"C:\\Users\\bebo_\\Desktop\\Unreal\\OneDayGames\\UnrealEndlessRunner\\EndlessRunner\\Source\\EndlessRunner.Target.cs",
+		"C:\\Users\\bebo_\\Desktop\\Unreal\\OneDayGames\\UnrealEndlessRunner\\EndlessRunner\\Source\\EndlessRunnerEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.3"
+}

@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\EndlessRunner.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\EndlessRunner.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\EndlessRunnerEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Kitty.png" />
+    <None Include="..\..\Temp.txt" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Config\HoloLens">
+      <UniqueIdentifier>{4C8DD267-CDE7-336F-8602-F5F485D22BAB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\HoloLens\HoloLensEngine.ini">
+      <Filter>Config\HoloLens</Filter>
+    </None>
+    <Filter Include="Source\EndlessRunner">
+      <UniqueIdentifier>{A6D23F56-464E-3EC2-91B8-49F1AD215469}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\EndlessRunner\EndlessRunner.Build.cs">
+      <Filter>Source\EndlessRunner</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\EndlessRunner\EndlessRunner.cpp">
+      <Filter>Source\EndlessRunner</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\EndlessRunner\EndlessRunner.h">
+      <Filter>Source\EndlessRunner</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\EndlessRunner\EndlessRunnerCharacter.cpp">
+      <Filter>Source\EndlessRunner</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\EndlessRunner\EndlessRunnerCharacter.h">
+      <Filter>Source\EndlessRunner</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\EndlessRunner\EndlessRunnerGameMode.cpp">
+      <Filter>Source\EndlessRunner</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\EndlessRunner\EndlessRunnerGameMode.h">
+      <Filter>Source\EndlessRunner</Filter>
+    </ClInclude>
+    <Filter Include="Source\EndlessRunner\Floor">
+      <UniqueIdentifier>{2355D72F-0BC5-3F28-AD53-623EADF0C62C}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\EndlessRunner\Floor\Floor.cpp">
+      <Filter>Source\EndlessRunner\Floor</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\EndlessRunner\Floor\Floor.h">
+      <Filter>Source\EndlessRunner\Floor</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\EndlessRunner\Floor\FloorController.cpp">
+      <Filter>Source\EndlessRunner\Floor</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\EndlessRunner\Floor\FloorController.h">
+      <Filter>Source\EndlessRunner\Floor</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\EndlessRunner\Floor\Obstacle.cpp">
+      <Filter>Source\EndlessRunner\Floor</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\EndlessRunner\Floor\Obstacle.h">
+      <Filter>Source\EndlessRunner\Floor</Filter>
+    </ClInclude>
+    <Filter Include="Source\EndlessRunner\Player">
+      <UniqueIdentifier>{9B84CF9A-351C-3E0E-B039-38FCE863DCBC}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\EndlessRunner\Player\RunnerCharacter.cpp">
+      <Filter>Source\EndlessRunner\Player</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\EndlessRunner\Player\RunnerCharacter.h">
+      <Filter>Source\EndlessRunner\Player</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
